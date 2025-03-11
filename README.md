@@ -11,7 +11,7 @@
 
 ## 📝About the project
 
-StudyBuddy is a web application that allows students to find study partners for any topic of their choice. The application is built using the Django framework and is deployed on Azure. The application is also containerized using Docker and is deployed using Github Actions.
+StudyBuddy is a web application that allows students to find study partners for any topic of their choice. The application is being built using the Django framework.
 
  > StudyBuddy solves the problem of students not being able to find study partners for a particular topic. The application allows students to find study partners for any topic of their choice. The application also allows students to create study groups for a particular topic.
 
